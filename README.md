@@ -9,4 +9,4 @@
 <hr>
 <br>
 <p align="center"> <a href="https://thecriicom.github.io/Gioco-del-Memory-Realizzato-in-HTML-CSS-JS-/" target="_blank" > <img src="immagini/prova.png" alt="prova" /> </a></p>
-<hr>
+
